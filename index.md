@@ -6,13 +6,14 @@ description: Crack Almost Any Steam Games With Onle One CLick
 
 # SteamAutoCrack
 
-[Download](https://github.com/SteamAutoCracks/Steam-auto-crack/releases/latest){: .btn }
-[Source Code](https://github.com/YourUsername/SteamAutoCrack){: .btn }
-[Quick Start](/docs/quickstart/){: .btn }
-[Docs](/docs/){: .btn }
+[Download](https://github.com/SteamAutoCracks/Steam-auto-crack/releases/latest){: .btn .btn-primary }
+[Source Code](https://github.com/YourUsername/SteamAutoCrack){: .btn .btn-secondary }
+[Quick Start](/docs/quickstart/){: .btn .btn-info }
+[Docs](/docs/){: .btn .btn-outline }
 
 
-## Screenshots
+## Screenshot
 
-[![Screenshot](/assets/img/Screenshot.png)](/assets/img/Screenshot.png)
+[![Screenshot](/assets/img/screenshot.png)](/assets/img/screenshot.png)
+
 
