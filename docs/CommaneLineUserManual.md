@@ -1,5 +1,7 @@
 # Commane Line User Manual
 
+<a href="/docs/" class="btn btn-primary">Back</a>
+
 * You have to manually compile the CLI version source code.
 
 ## Usage

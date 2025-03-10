@@ -1,5 +1,7 @@
 # Json Configuration
 
+<a href="/docs/" class="btn btn-primary">Back</a>
+
 * GUI version: config.json is created under program folder after enabled `Save Config File`
 
 ## Default Config Example

@@ -1,5 +1,7 @@
 # Quick Start
 
+<a href="/docs/" class="btn btn-primary">Back</a>
+
 ## Download
 You can download from Github [releases](https://github.com/SteamAutoCracks/Steam-auto-crack/releases/latest).
 

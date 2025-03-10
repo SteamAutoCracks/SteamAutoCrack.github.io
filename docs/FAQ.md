@@ -1,4 +1,6 @@
 # General FAQ 
+
+<a href="/docs/" class="btn btn-primary">Back</a>
  
 > * Q1: How to use this tool to crack a game/app?
 > * A1: You need clean Steam game/app files and Internet (optional) to crack. 

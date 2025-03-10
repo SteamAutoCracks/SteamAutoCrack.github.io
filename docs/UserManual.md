@@ -1,5 +1,7 @@
 # User Manual
 
+<a href="/docs/" class="btn btn-primary">Back</a>
+
 ## Main Options
 
 ### Path
