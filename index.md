@@ -1,19 +1,18 @@
 ---
 layout: default
 title: SteamAutoCrack
-description: Crack Almost Any Steam Games With Onle One CLick
+description: Crack Almost Any Steam Games With Only One CLick
 ---
 
-# SteamAutoCrack
+<h1>SteamAutoCrack</h1>
 
-[Download](https://github.com/SteamAutoCracks/Steam-auto-crack/releases/latest){: .btn .btn-primary }
-[Source Code](https://github.com/YourUsername/SteamAutoCrack){: .btn .btn-secondary }
-[Quick Start](/docs/quickstart/){: .btn .btn-info }
-[Docs](/docs/){: .btn .btn-outline }
+<a href="https://github.com/SteamAutoCracks/Steam-auto-crack/releases/latest" class="btn btn-primary">Download</a>
+<a href="https://github.com/YourUsername/SteamAutoCrack" class="btn btn-secondary">Source Code</a>
+<a href="/docs/quickstart/" class="btn btn-info">Quick Start</a>
+<a href="/docs/" class="btn btn-outline">Docs</a>
 
+<h2>Screenshot</h2>
 
-## Screenshot
-
-[![Screenshot](/assets/img/screenshot.png)](/assets/img/screenshot.png)
-
-
+<a href="/assets/img/screenshot.png">
+  <img src="/assets/img/screenshot.png" alt="Screenshot">
+</a>
