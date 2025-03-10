@@ -13,6 +13,6 @@ description: Crack Almost Any Steam Games With Only One CLick
 
 <h2>Screenshot</h2>
 
-<a href="/assets/img/screenshot.png">
-  <img src="/assets/img/screenshot.png" alt="Screenshot">
+<a href="/assets/img/program.png">
+  <img src="/assets/img/program.png" alt="program">
 </a>
