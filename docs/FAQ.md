@@ -18,10 +18,10 @@
 # TroubleShoot
 
 > * Q1: I got error when cracking!
-> * A1: Please report the error in [issues](https://github.com/oureveryday/Steam-auto-crack/issues).
+> * A1: Please report the error in [issues](https://github.com/SteamAutoCracks/Steam-auto-crack/issues).
 
 > * Q2: Program won't start.
-> * A2: Please Try Download [.NET 8.0 **Desktop** Runtime](https://dotnet.microsoft.com/download/dotnet/8.0/runtime) and Install it. If it still not works, Please report in [issues](https://github.com/oureveryday/Steam-auto-crack/issues).
+> * A2: Please Try Download [.NET 8.0 **Desktop** Runtime](https://dotnet.microsoft.com/download/dotnet/8.0/runtime) and Install it. If it still not works, Please report in [issues](https://github.com/SteamAutoCracks/Steam-auto-crack/issues).
 
 > * Q3: I got `Insufficient privileges to get access token for app (AppID)` error when cracking.
 > * A3: If the AppID is the game main AppID, the crack process isn't completed. Please `Restore Crack` first then change `Generator API` to `Steam Web API` and try again.

@@ -61,7 +61,7 @@
 
 ## Description
 
-* Greyed/Code Descriptions is referred to [User Manual](https://github.com/oureveryday/Steam-auto-crack/wiki/User-Manual)
+* Greyed/Code Descriptions is referred to [User Manual](https://github.com/SteamAutoCracks/Steam-auto-crack/wiki/User-Manual)
 
 Key            | Type           | Description
 -------------- | -------------- | --------------

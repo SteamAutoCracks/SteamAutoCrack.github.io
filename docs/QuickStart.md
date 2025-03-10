@@ -1,5 +1,5 @@
 # Download
-You can download from Github [releases](https://github.com/oureveryday/Steam-auto-crack/releases/latest).
+You can download from Github [releases](https://github.com/SteamAutoCracks/Steam-auto-crack/releases/latest).
 
 # Crack
 1. Run Steam Auto Crack. (If it won't run see [Troubleshoot:Q2](/docs/FAQ#troubleshoot))

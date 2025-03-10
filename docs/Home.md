@@ -14,8 +14,8 @@ Written with C#, Support .Net 8.0
 - Built in Steam APP ID Finder.
 
 # Manuals  
-- [Quick start](/docs/Quick-Start)
-- [User manual](/docs/User-Manual)
-- [Commane Line User Manual](/docs/Commane-Line-User-Manual)
-- [Json Configuration](/docs/Json-Configuration)
+- [Quick start](/docs/QuickStart)
+- [User manual](/docs/UserManual)
+- [Commane Line User Manual](/docs/CommaneLineUserManual)
+- [Json Configuration](/docs/JsonConfiguration)
 - [FAQ](/docs/FAQ)
