@@ -14,3 +14,5 @@ description: Crack Almost Any Steam Games With Onle One CLick
 
 ## Screenshots
 
+[![Screenshot](/assets/img/screenshot.png)](/assets/img/screenshot.png)
+
