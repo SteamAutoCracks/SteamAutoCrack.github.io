@@ -1,50 +1,48 @@
-# Commane Line User Manual
+# Command Line User Manual  
 
-<a href="/docs/" class="btn btn-primary">Back</a>
+<a href="/docs/" class="btn btn-primary">Back</a>  
 
-* You have to manually compile the CLI version source code.
+* You have to manually compile the CLI version source code.  
 
-## Usage
+## Usage  
 
-`SteamAutoCrack.CLI [command] [options]`
+`SteamAutoCrack.CLI [command] [options]`  
 
-## Main Commands
+## Main Commands  
 
-Command        | Description
--------------- | --------------
-crack \<Path>  | Start crack process.
-updateapplist  | Force Update Steam App List.
-downloademu    | Download/Update Goldberg Steam emulator.
-createconfig   | Create Default Config File.
+Command        | Description  
+-------------- | --------------  
+crack \<Path>  | Start the crack process.  
+updateapplist  | Force update of the Steam App List.  
+downloademu    | Download/Update the Goldberg Steam emulator.  
+createconfig   | Create a default config file.  
 
-## Commands
+## Commands  
 
-### Crack
+### Crack  
 
-Option             | Description
---------------     | --------------
---config <config>  | The process config json file. [Default: config.json in program current running directory]
---appid <appid>    | The game Steam AppID. (Required when Generate Goldberg Steam emulator game info)
---debug            | Enable Debug Log.
+Option             | Description  
+------------------ | -------------------------------------------  
+--config <config>  | The process configuration JSON file. [Default: `config.json` in the program's current running directory]  
+--appid <appid>    | The game's Steam AppID. (Required when generating Goldberg Steam emulator game info)  
+--debug            | Enable debug logging.  
 
-### updateapplist
+### updateapplist  
 
-Option             | Description
---------------     | --------------
---debug            | Enable Debug Log.
+Option  | Description  
+------- | --------------  
+--debug | Enable debug logging.  
 
+### downloademu  
 
-### downloademu
+Option   | Description  
+-------- | --------------  
+--force  | Force (re)download.  
+--debug  | Enable debug logging.  
 
-Option             | Description
---------------     | --------------
---force            | Force (re)download.
---debug            | Enable Debug Log.
+### createconfig  
 
-
-### createconfig
-
-Option             | Description
---------------     | --------------
---path <path>      | Changes default config path.
---debug            | Enable Debug Log.
+Option        | Description  
+------------- | ------------------------------  
+--path <path> | Change the default config path.  
+--debug       | Enable debug logging.  

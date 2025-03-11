@@ -1,18 +1,18 @@
-# Quick Start
+# Quick Start  
 
-<a href="/docs/" class="btn btn-primary">Back</a>
+<a href="/docs/" class="btn btn-primary">Back</a>  
 
-## Download
-You can download from Github [releases](https://github.com/SteamAutoCracks/Steam-auto-crack/releases/latest).
+## Download  
+You can download the latest version from GitHub [Releases](https://github.com/SteamAutoCracks/Steam-auto-crack/releases/latest).  
 
-## Crack
-1. Run Steam Auto Crack. (If it won't run see [Troubleshoot:Q2](/docs/FAQ#troubleshoot))
-2. Keep Option 1-4 Checked. (Checked by Default)
-3. Choose `Path` with `...`, or Drag & Drop to the textbox.
-4. Click `Start Crack` then Find Steam App ID Using `App ID Finder`.
-5. Wait for crack complete. (The log will be displayed in `Log` Window)
+## Crack Process  
+1. Run **Steam Auto Crack**. (If it doesn’t start, see [Troubleshoot: Q2](/docs/FAQ#troubleshoot))  
+2. Ensure **Options 1-4** are checked. (They are checked by default)  
+3. Select the **Path** using `...`, or drag & drop files into the textbox.  
+4. Click **Start Crack**, then locate the **Steam App ID** using `App ID Finder`.  
+5. Wait for the crack process to complete. (Logs will be displayed in the `Log` window)  
 
-## Extra Notes
-1. You must have Steam game clean files to crack.
-2. The game must only have normal Steam API Check and SteamStub DRM only. The tool won't work on other DRM like Denuvo, VMProtect etc.
-3. The App ID Finder can take a longer time to load when using for the first time.
+## Extra Notes  
+1. You must have **clean Steam game files** to perform the crack.  
+2. The game must use only **normal Steam API checks and SteamStub DRM**. This tool **will not work** on other DRM protections like **Denuvo, VMProtect, etc.**  
+3. The **App ID Finder** may take longer to load when used for the first time.  

@@ -6,12 +6,12 @@
 
 ### Path
 
-* Set the Steam clean game file folder (Make sure to choose the root game path, for example in UE4 games you should the folder include `Engine` folder), game executable or steam_api(64).dll.
+* Set the Steam clean game file folder (Make sure to choose the root game path, for example in UE4 games you should choose the folder that includes the `Engine` folder), game executable or steam_api(64).dll.
 
 ### Start Crack
 
 * Start the crack process.
-* The `Delete Previous steam_settings Folder` is same as  `Goldberg Steam Emulator Configuration`'s.
+* The `Delete Previous steam_settings Folder` is the same as `Goldberg Steam Emulator Configuration`'s.
 
 ***
 
@@ -20,18 +20,18 @@
 ### Steam App ID
 
 * Set the Steam App ID.
-* App ID can be found using built-in `App ID Finder` or [SteamDB](https://steamdb.info/).
+* App ID can be found using the built-in `App ID Finder` or [SteamDB](https://steamdb.info/).
 
 ### Generator API
 
 * Generate game info with different info APIs.
-* SteamKit2 Client: Use SteamKit2 Client for generating most of infos and Steam Web API/Xan105 API for game schema. (Best result)
-* Steam Web API: Steam Web API/Xan105 API for all game infos. (Faster but less infos)
-* Offline: Generate Offline basic info without Internet.
+* SteamKit2 Client: Use SteamKit2 Client for generating most of the info and Steam Web API/Xan105 API for game schema. (Best result)
+* Steam Web API: Steam Web API/Xan105 API for all game info. (Faster but less info)
+* Offline: Generate offline basic info without Internet.
 
 ### Use Xan105 API
 
-* Use Xan105 API to replace Steam Web API, but can't generate stats. (Currently not works)
+* Use Xan105 API to replace Steam Web API, but can't generate stats. (Currently not working)
 
 ### Steam Web API Key
 
@@ -53,7 +53,7 @@
 ### Language
 
 * Set the language the emulator will report to the game.
-* Default language settings will generated from your system language.
+* Default language settings will be generated from your system language.
 
 ### Listen Port
 
@@ -65,7 +65,7 @@
 
 ### Steam ID
 
-* Set your emulator steam id
+* Set your emulator steam id.
 * If your saves for a game are locked to a specific steam id you need to change this value.
 
 ### Disable Networking
@@ -85,7 +85,7 @@
 
 ### Custom Broadcast IP
 
-* Set custom ips (or domains) which the emulator will send broadcast packets to.
+* Set custom IPs (or domains) which the emulator will send broadcast packets to.
 
 ### Open Example Config
 
@@ -99,7 +99,7 @@
 
 ## 3. Unpack SteamStub
 
-* Require Select .exe File or Folder as input path.
+* Requires selecting .exe File or Folder as input path.
 
 ### Keep Bind Section
 
@@ -107,7 +107,7 @@
 
 ### Use Experimental Features
 
-* Required if unpacked executablewon't run.
+* Required if unpacked executable won't run.
 
 ### Realign Sections
 
@@ -126,17 +126,17 @@
 * Use [SteamAPICheckBypass](https://github.com/oureveryday/Steam-API-Check-Bypass) to bypass steam_api(64).dll and exe integrity check.
 * Disabled: Disable Apply SteamAPICheckBypass.
 * SteamAPICheckBypass DLL: DLL Name for DLL hijacking to game executable.
-* Enable All Time: Intercept All steam_api(64).dll read request and all game exe read request.
-* Enable Only Nth Time: Intercept steam_api(64).dll read request only on Nth time and all game exe read request.
-* Enable Only Not Nth Time: Intercept steam_api(64).dll read request only not on Nth time and all game exe read request.
-* `Enable Only Nth Time` and `Enable Only Not Nth Time` is useful for custom requirements.
-* SteamAPICheckBypass won't intercept `LoadLirary` now.
+* Enable All Time: Intercept All steam_api(64).dll read requests and all game exe read requests.
+* Enable Only Nth Time: Intercept steam_api(64).dll read request only on Nth time and all game exe read requests.
+* Enable Only Not Nth Time: Intercept steam_api(64).dll read request only not on Nth time and all game exe read requests.
+* `Enable Only Nth Time` and `Enable Only Not Nth Time` are useful for custom requirements.
+* SteamAPICheckBypass won't intercept `LoadLibrary` now.
 
 ***
 
 ## 4. Apply Goldberg Steam Emulator
 
-* Require Select steam_api(64).dll File or Folder as input path.
+* Requires selecting steam_api(64).dll File or Folder as input path.
 
 ### Use Custom Save Location
 
@@ -145,40 +145,40 @@
 
 ### Use Experimental version Goldberg Emulator
 
-* Uses Experimental version Goldberg Emulator.
+* Uses Experimental version of Goldberg Emulator.
 
 ### Generate Steam Interfaces file
 
-* Automacally Generate steam_interfaces.txt if the original steam_api(64).dll older than may 2016 (Determined with Digital Signature Timestamp).
+* Automatically Generate steam_interfaces.txt if the original steam_api(64).dll is older than May 2016 (Determined with Digital Signature Timestamp).
 
 ### Force Generate for each steam_api(64).dll
 
-* Generate steam_interfaces.txt steam_api(64).dll .
+* Generate steam_interfaces.txt for each steam_api(64).dll.
 
 ***
 
 ## 5. Generate Crack Only Files
 
-* Require Select Folder as input path.
+* Requires selecting Folder as input path.
 * Crack only files will be generated in the `Crack` folder.
 
 ### Output Path
 
-* Set the place to put crack only file.
+* Set the place to put crack only files.
 
 ### Create Crack Readme File
 
-* Create Crack_Readme.txt which include infos to apply the crack only file.
+* Create Crack_Readme.txt which includes info on how to apply the crack only files.
 
 ### Pack Crack Files with .zip archive
 
-* Pack Crack Files with Crack.zip archive.
+* Pack Crack Files into a Crack.zip archive.
 
 ***
 
 ## 6. Restore Crack
 
-* Require Select Folder as input path.
+* Requires selecting Folder as input path.
 * Restores Crack Generated with SteamAutoCrack.
 
 ***
@@ -203,14 +203,14 @@
 
 ### Output Log to File
 
-* Output all Log to log.log file.
-* Error log will always output to error.log regardless of this option is disabled.
+* Output all Logs to log.log file.
+* Error logs will always output to error.log regardless of whether this option is disabled.
 
 ### Update/Download
 
-* Update or download latest version Goldberg Steam Emulator if it not exist or a update available.
+* Update or download latest version of Goldberg Steam Emulator if it does not exist or an update is available.
 
 ### Force Update Steam App List
 
 * Update Steam App List now.
-* Steam App List will automacally updated daily.
+* Steam App List will automatically be updated daily.
