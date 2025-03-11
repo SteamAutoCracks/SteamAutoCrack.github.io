@@ -1,3 +1,9 @@
+---
+layout: default
+title: SteamAutoCrack Json Configuration Introduction
+description: SteamAutoCrack Config.json Configuration Introduction
+---
+
 # Json Configuration
 
 <a href="/docs/" class="btn btn-primary">Back</a>

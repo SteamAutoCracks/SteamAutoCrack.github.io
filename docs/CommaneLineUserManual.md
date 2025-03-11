@@ -1,3 +1,9 @@
+---
+layout: default
+title: SteamAutoCrack Command Line User Manual
+description: Command Line User Manual
+---
+
 # Command Line User Manual  
 
 <a href="/docs/" class="btn btn-primary">Back</a>

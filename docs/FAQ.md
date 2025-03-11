@@ -1,3 +1,9 @@
+---
+layout: default
+title: SteamAutoCrack FAQ
+description: Frequently Asked Questions
+---
+
 # General FAQ  
 
 <a href="/docs/" class="btn btn-primary">Back</a>  

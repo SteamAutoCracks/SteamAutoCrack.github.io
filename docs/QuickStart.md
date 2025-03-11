@@ -1,3 +1,9 @@
+---
+layout: default
+title: SteamAutoCrack Quick Start
+description: Get started with SteamAutoCrack
+---
+
 # Quick Start  
 
 <a href="/docs/" class="btn btn-primary">Back</a>  

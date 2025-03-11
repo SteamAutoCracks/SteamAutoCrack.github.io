@@ -1,3 +1,9 @@
+---
+layout: default
+title: SteamAutoCrack Docs
+description: Documents for SteamAutoCrack
+---
+
 # Introduction  
 
 * Steam Auto Crack is a tool designed to automatically bypass Steam DRM protection for games.  
