@@ -18,7 +18,7 @@ description: Command Line User Manual
 
 Command        | Description
 -------------- | --------------
-crack \<Path>  | Start the crack process.
+crack &lt;Path&gt;  | Start the crack process.
 updateapplist  | Force update of the Steam App List.
 downloademu    | Download/Update the Goldberg Steam emulator.
 createconfig   | Create a default config file.
@@ -29,8 +29,8 @@ createconfig   | Create a default config file.
 
 Option         | Description  
 -------------- | --------------
---config <config>  | The process configuration JSON file. [Default: `config.json` in the program's current running directory]  
---appid <appid>    | The game's Steam AppID. (Required when generating Goldberg Steam emulator game info)  
+--config &lt;config&gt;  | The process configuration JSON file. [Default: `config.json` in the program's current running directory]  
+--appid &lt;appid&gt;    | The game's Steam AppID. (Required when generating Goldberg Steam emulator game info)  
 --debug            | Enable debug logging.  
 
 ### updateapplist
