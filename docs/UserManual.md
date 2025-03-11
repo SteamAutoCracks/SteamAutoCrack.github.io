@@ -4,9 +4,9 @@ title: SteamAutoCrack User Manual
 description: SteamAutoCrack User Manual
 ---
 
-# User Manual
+<a href="/docs/" class="btn btn-primary">Back to docs index</a>
 
-<a href="/docs/" class="btn btn-primary">Back</a>
+# User Manual
 
 ## Main Options
 

@@ -4,9 +4,9 @@ title: SteamAutoCrack Quick Start
 description: Get started with SteamAutoCrack
 ---
 
-# Quick Start  
+<a href="/docs/" class="btn btn-primary">Back to docs index</a>
 
-<a href="/docs/" class="btn btn-primary">Back</a>  
+# Quick Start  
 
 ## Download  
 

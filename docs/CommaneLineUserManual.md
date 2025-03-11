@@ -4,9 +4,9 @@ title: SteamAutoCrack Command Line User Manual
 description: Command Line User Manual
 ---
 
-# Command Line User Manual  
+<a href="/docs/" class="btn btn-primary">Back to docs index</a>
 
-<a href="/docs/" class="btn btn-primary">Back</a>
+# Command Line User Manual  
 
 * You have to manually compile the CLI version source code.
 

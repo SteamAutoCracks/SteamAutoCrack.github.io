@@ -4,9 +4,9 @@ title: SteamAutoCrack FAQ
 description: Frequently Asked Questions
 ---
 
-# General FAQ  
+<a href="/docs/" class="btn btn-primary">Back to docs index</a>
 
-<a href="/docs/" class="btn btn-primary">Back</a>  
+# General FAQ  
 
 > * **Q1: How do I use this tool to crack a game/app?**  
 > * **A1:** You need clean Steam game/app files and an internet connection (optional) to proceed with cracking.  

@@ -4,9 +4,9 @@ title: SteamAutoCrack Json Configuration Introduction
 description: SteamAutoCrack Config.json Configuration Introduction
 ---
 
-# Json Configuration
+<a href="/docs/" class="btn btn-primary">Back to docs index</a>
 
-<a href="/docs/" class="btn btn-primary">Back</a>
+# Json Configuration
 
 * GUI version: config.json is created under program folder after enabled `Save Config File`
 
