@@ -27,8 +27,8 @@ createconfig   | Create a default config file.
 
 ### Crack
 
-Option             | Description  
------------------- | -------------------------------------------  
+Option         | Description  
+-------------- | --------------
 --config <config>  | The process configuration JSON file. [Default: `config.json` in the program's current running directory]  
 --appid <appid>    | The game's Steam AppID. (Required when generating Goldberg Steam emulator game info)  
 --debug            | Enable debug logging.  
